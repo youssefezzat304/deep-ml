@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:29:19.404Z",
+  "generated_at": "2026-10-19T10:32:34.788Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -63,6 +63,19 @@
       "path": "problems/0005-scalar-multiplication-of-a-matrix",
       "first_solved_at": "2026-10-19T10:29:18.682Z",
       "last_pushed_at": "2026-10-19T10:29:18.682Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-10-19T10:32:33.830Z",
+      "last_pushed_at": "2026-10-19T10:32:33.830Z",
       "language": "python",
       "lines": 4
     }
